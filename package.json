@@ -1,0 +1,21 @@
+{
+  "name": "test-hardhat",
+  "version": "1.0.0",
+  "description": "Standard hardhat setup.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hardhat",
+    "test",
+    "web3",
+    "solidity"
+  ],
+  "author": "Jon Bray",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.1",
+    "hardhat": "^2.12.7"
+  }
+}
